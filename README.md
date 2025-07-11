@@ -8,7 +8,7 @@ Aqui estarão disponíveis os aquivos associados às atividades realizadas duran
 Conforme o projeto pedagógico do curso superior Tecnologia em Análise e Desenvolvimento de Sistemas de 2020, a disciplina Teste de Software tem como objetivo geral introduzir o discente às técnicas de teste mais utilizadas, tornando-o capaz tanto de identificar as técnicas mais adequadas para cada caso, quanto também de executar e colaborar com a melhoria de processos relacionados ao teste e à garantia de qualidade de softwares em geral, sendo assim, a atividade relatada neste documento se adequa a esses preceitos.
 
 # Sobre o artigo
-O artigo citado tem como objetivo geral demonstrar os resultados obtidos ao testar um jogo de xadrez construído em Java e dividido em módulos. A equipe ficou designada a testar a peça Rainha e relatar nesse documento todos as as atividades realizadas em sala de aula desse teste caracterizado como de funcionalidade.
+O artigo citado tem como objetivo geral demonstrar os resultados obtidos ao testar um jogo de xadrez construído em Java e dividido em módulos. A equipe ficou designada a testar a peça Rainha e relatar nesse documento todas as atividades realizadas em sala de aula.
 
 # Sobre o programa
 Após a conclusão do artigo dos testes de funcionalidade, o professor disponibilizou o código do programa para desenvolvermos os testes do código utilizando a biblioteca JUnit. 
