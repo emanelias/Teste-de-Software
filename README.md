@@ -1,5 +1,5 @@
 # Teste-de-Software
-Este repositório tem como intuito transmitir o conhecimento adquirido na disciplina Teste de Software. A matéria foi cursada durante o primeiro semestre de 2025, com resultado final de 10,0.
+Este repositório tem como intuito transmitir o conhecimento adquirido na disciplina Teste de Software do Instituto Federal de Educação, Ciência e Tecnologia do Amazonas. A matéria foi cursada durante o primeiro semestre de 2025, com resultado final de 10,0.
 
 # Sobre os testes
 Aqui estarão disponíveis os aquivos associados às atividades realizadas durante o processo de teste de um software de jogo de Xadrez que fora fornecido via plataforma virtual Google Sala de Aula quando executado. Os autores apresentados no arquivo do artigo intitulado "Relatório de Teste Funcional da Rainha do Xadrez.pdf" constituem essa equipe de teste da disciplina Teste de Software durante o primeiro semestre de 2025. A equipe foi designada para testar as funcionalidades descritas no documento de requisitos da peça conhecida como rainha. 
