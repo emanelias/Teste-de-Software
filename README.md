@@ -11,4 +11,16 @@ Conforme o projeto pedagógico do curso superior Tecnologia em Análise e Desenv
 O artigo citado tem como objetivo geral demonstrar os resultados obtidos ao testar um jogo de xadrez construído em Java e dividido em módulos. A equipe ficou designada a testar a peça Rainha e relatar nesse documento todos as as atividades realizadas em sala de aula desse teste caracterizado como de funcionalidade.
 
 # Sobre o programa
-Após a conclusão do artigo, o professor disponibilizou o código do programa para testarmos ao invés das funcionalidades básicas, o código utilizando a biblioteca JUnit. 
+Após a conclusão do artigo dos testes de funcionalidade, o professor disponibilizou o código do programa para desenvolvermos os testes do código utilizando a biblioteca JUnit. 
+
+A pasta desse projeto está intitulada aqui no repositório como "xadrez-intellij/xadrez-intellij"
+
+Como requisito para executar o software, é necessário possuir na máquina de execução, notebook ou computador, uma versão do jdk 17 ou superior. É possível obter de forma prática o jdk, de acordo com seu sistema operacional e arquitetura do processador, através do site da empresa Oracle, via endereço: https://www.oracle.com/br/java/technologies/downloads/
+
+Também é necessário abrir o projeto "xadrez-intellij" numa IDE compatível com Java, no exemplo utilizamos a IDE Intellij IDEA Communinity Edition. Outras como Eclipse ou Visual Studio Code podem ser utilizadas.
+
+Caminho para o arquivo onde os testes desenvolvidos podem ser visualizados com seus respectivos comentários:
+"xadrez-intellij\xadrez-intellij\target\test-classes\RainhaTest.class"
+
+Demais funcionalidades e códigos do tabuleiro podem ser vistas nos outros arquivos do projeto.
+
